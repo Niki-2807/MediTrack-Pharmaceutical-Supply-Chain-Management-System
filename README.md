@@ -19,12 +19,14 @@ Meditrack is a web-based application designed to streamline pharmacy management 
 # Admin Login:
 
 Username: admin
+
 Password: password
 
 # Pharmacist Login: 
 Refer to the emplogin table in the database. For example:
 
 Username: niki_t_pharm
+
 Password: niki1
 
 # Project Description
