@@ -25,9 +25,9 @@ Password: password
 # Pharmacist Login: 
 Refer to the emplogin table in the database. For example:
 
-Username: niki_t_pharm
+Username: pharma1
 
-Password: niki1
+Password: pass1
 
 # Project Description
 # Introduction
